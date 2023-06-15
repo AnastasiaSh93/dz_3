@@ -1,0 +1,19 @@
+{
+	"student_login_data": [{
+		"username": "Narhiza",
+		"reg_data": [{
+			"reg_date": "2023-04-21T13:28:06.419Z",
+			"reg_place": "UA"
+		}],
+		"online_now": false,
+		"last_login_date": "2023-06-14T17:33:06.419Z"
+	}],
+	"student_data": [{
+		"age": 29,
+		"birthday": "09.08.1993",
+		"country": "DE",
+		"city": "Munich",
+		"language": ["Ukrainian", "English", "German"],
+		"phone_number": null
+	}]
+}
