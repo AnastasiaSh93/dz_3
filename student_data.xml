@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <student_login_data username="Narhiza">
+        <reg_data>
+            <reg_date>2023-04-30T09:00:00</reg_date>
+            <reg_place>UA</reg_place>
+        </reg_data>
+        <online_now>false</online_now>
+        <last_login_date>2023-06-14T18:00:00</last_login_date>
+    </student_login_data>
+    <student_data name="Narhiza" last_name="Shadiieva">
+        <age>29</age>
+        <birthday>9.08.1993</birthday>
+        <country>DE</country>
+        <city>Munich</city>
+        <languages>
+            <native lg="Ukrainian"/>
+            <foreign lg="English"/>
+            <phone_number xsi:nil="true"/>
+        </languages>
+    </student_data>
+</student>
